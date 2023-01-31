@@ -1,0 +1,15 @@
+﻿  Examples.cpp
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(17,16): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(18,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(22,21): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(22,52): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(23,13): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(34,21): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(34,52): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(35,14): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(111,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(112,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(135,15): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(183,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\Examples\Examples.cpp(43): warning C4715: 'Action': not all control paths return a value
+  Examples.vcxproj -> C:\Users\ahieo\OneDrive\Documents\Visual Studio 2022\Examples\x64\Debug\Examples.exe
